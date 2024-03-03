@@ -13,7 +13,6 @@ print(logo)
 
 print(f'Pssst, the solution is {chosen_word}.')
 
-#Create blanks
 display = []
 for _ in range(word_length):
     display += "_"
