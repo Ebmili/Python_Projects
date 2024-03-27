@@ -17,8 +17,6 @@ def greet_with(name, location):
 
 greet_with("Emilia", "Warsaw")
 
-# or greet_with(location="London", name="Angela")
-
 import math
 
 def paint_calc(height, width, cover):
